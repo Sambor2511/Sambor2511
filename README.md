@@ -17,3 +17,4 @@ I'm currently a highschool student that is interested in robotic. I mostly do my
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 #
+ https://img.shields.io/badge/just%20the%20message-8A2BE2
