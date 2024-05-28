@@ -41,4 +41,4 @@ I'm currently a highschool student that is interested in robotic. I mostly do my
 
 + Line follower competition (mid 2023)
 + Line follower competition with university (late 2023)
-
+![alt text](https://photos.app.goo.gl/EvnJ1jHGzsJPecTBA)
