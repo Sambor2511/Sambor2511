@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=okokok)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=okokokokokokokokok)](https://git.io/typing-svg)
 # 🥞 Sambor
 **`Highschool Student learning robotic (also like designing, editing and art 🎨✍✨💡)`**
 
