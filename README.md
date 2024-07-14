@@ -32,6 +32,7 @@ I'm currently a highschool student that is interested in robotic. I mostly do my
 ### ✍️ Learning
 
 <img align="left" alt="DrRacket" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f898baf5-f3be-4aa1-9bc6-aa91a6138d47" />
+<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
 <br />
 
